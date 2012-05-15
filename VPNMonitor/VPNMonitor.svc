@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="VPNMonitor.Service1" CodeBehind="VPNMonitor.svc.cs" %>

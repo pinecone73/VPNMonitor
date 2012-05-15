@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<masterList>
+  <directory name="Weekly Paperwork">
+    <file name="Cancelled Items and Deletes by Register.pdf">
+      <md5>30c986e317d4940a0112cadea9d751dc</md5>
+    </file>
+    <file name="Deposit and Paid Out Log.pdf">
+      <md5>3938596e497853156aa069195ed034bd</md5>
+    </file>
+    <file name="EMPLOYEE TIME WORKED RECORD.pdf">
+      <md5>3ee19fcd5ed6be52b8bf32857fc2f46e</md5>
+    </file>
+    <file name="Employee Work Schedule.pdf">
+      <md5>fb4d939215477a942e04d116027b4b4b</md5>
+    </file>
+    <file name="store bank  LOG.pdf">
+      <md5>76b6627ac2fd759e0e8ec0d3014abdb2</md5>
+    </file>
+    <file name="Weekly Labor Sheet.pdf">
+      <md5>8498672df070620baf8bc63959472351</md5>
+    </file>
+  </directory>
+</masterList>
